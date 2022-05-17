@@ -18,11 +18,11 @@
 
 const options = {};
 
-options.AFFILIATE_CAMPAIGN_ID = '5338566232';
-options.AFFILIATE_REFERENCE_ID = 'reacttest';
-options.CATEGORY_IDS = '58058';
-options.CLIENT_ID = 'rafealdo-2dd4-403f-a24b-3aeff1c8bef0';
-options.CLIENT_SECRET = '40d18dc8-5744-48ef-b7d2-5c5501ef3af4';
-options.ENVIRONMENT = 'SANDBOX';
+options.AFFILIATE_CAMPAIGN_ID = '';
+options.AFFILIATE_REFERENCE_ID = '';
+options.CATEGORY_IDS = '';
+options.CLIENT_ID = '';
+options.CLIENT_SECRET = '';
+options.ENVIRONMENT = '';
 
 module.exports = options;
